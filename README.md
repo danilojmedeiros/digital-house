@@ -1,7 +1,7 @@
 # digital-house
 Repositório Curso Intensivo Data Science da Digital House
 
-<h1> MÓDULO 0: </h1>
+<h3> MÓDULO 0: </h3>
 Fundamentos: NumPy,
 Stats, SQL e DataViz
 
