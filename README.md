@@ -1,7 +1,7 @@
 # digital-house
 Repositório Curso Intensivo Data Science da Digital House
 
-</h2> MÓDULO 0: </h2>
+<h2> MÓDULO 0: <h2>
 Fundamentos: NumPy,
 Stats, SQL e DataViz
 
@@ -9,7 +9,7 @@ MÓDULO 1:
 Exploratory Data Analysis
 (EDA), Pandas e SciPy
 
-MÓDULO 2:
+MÓDULO 2: 
 Introdução a Regressão
 Linear, Modelagem
 Estatística, Regressão
