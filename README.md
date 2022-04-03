@@ -1,2 +1,2 @@
 # digital-house
-Repositório Curso Intensivo Data Science da Digital House
+Repositório do Curso Intensivo Data Science da Digital House
